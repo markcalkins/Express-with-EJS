@@ -1,0 +1,22 @@
+[
+{
+  "title": "Node is Awesome",
+  "slug": "first-post",
+  "content": "Nodejs is awesome. Express is awesome. Both are super fast for i/o intensive apps. I love how you can build a web server using Javascript."
+},
+{
+  "title": "NPM: Lots of Fantastic Modules",
+  "slug": "second-post",
+  "content": "NPM is amazing. There are a ton of cool node modules. Express and Connect are among the best modules. Soon we'll be learning about socket.io, another npm module. "
+},
+{
+  "title": "Express Views",
+  "slug": "third-post",
+  "content": "Express views let you use a bunch of different template engines. I'm starting with EJS, which isn't too bad, although I think I like Handlebars better. I do like how I can change the delimiters to be like Handlebars. Haven't tried Jade yet. Jade is to HTML what CoffeeScript is to JavaScript."
+},
+{
+  "title": "Upcoming Topics",
+  "slug": "fourth-post",
+  "content": "We haven't spent any time on Streams yet or Node's event system using the event emitter. Can't wait till we get to Socket.io and persisting data with MongoDB. I wish the course also covered Sails.js."
+}
+]

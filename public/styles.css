@@ -1,0 +1,30 @@
+body {
+  font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+  font-weight: 400;
+  color: #686B6B;
+}
+
+h1 {
+  font-weight: 700;
+  margin-bottom: 30px;
+}
+
+h3 {
+   color: #3E4446;
+  font-weight: 600;
+  margin-bottom: 10px;
+}
+
+a {
+  text-decoration: none;
+  color: #0080BF;
+}
+
+a:hover {
+  color: #00B9BD;
+}
+
+.container {
+  width: 90%;
+  margin: 0px auto;
+}
